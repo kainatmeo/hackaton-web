@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    font-family: Roboto;
+}
+.logo{
+    width: 100px;
+}
+
+.btn1{
+    
+padding: 5px 26px 5px 26px;
+
+border-radius: 30px;
+
+border: 1px solid yellow;
+color: white;
+background: linear-gradient(90deg, #FF4E50 0%, #F9D423 100%);
+
+}
+
+#cover{
+    background: linear-gradient(90deg, #FFEFBA 0%, #FFFFFF 100%);
+
+}
+
+.custom-highlight{
+    font-family: Roboto;
+font-size: 58px;
+font-weight: 500;
+line-height: 60.94px;
+text-align: left;
+text-transform: uppercase;
+}
+
+.custom-1{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+
+}
+
+.btn2{
+    padding: 5px 26px 5px 26px;
+
+    border-radius: 30px;
+    
+    border: 1px solid yellow;
+    color: white;
+    background: linear-gradient(90deg, #FF4E50 0%, #F9D423 100%);
+
+
+}
